@@ -1,2 +1,12 @@
-# Ai-on-operating-system
-AION OS is an experimental AI-powered operating system layer that understands what users want, manages context, and coordinates tasks using AI models and connected agents. It’s built to let you interact with your computer in a more natural, intelligent way.
+# AION OS
+
+An AI-powered operating system prototype.
+
+## Overview
+AION OS is an experimental OS layer that uses AI models to interpret user intent and manage tasks.
+
+## Getting Started
+1. Install Python 3.10+
+2. Go to `services/context_manager`
+3. Install dependencies: `pip install -r requirements.txt`
+4. Run: `python app.py`
