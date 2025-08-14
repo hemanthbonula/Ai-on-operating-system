@@ -1,14 +1,16 @@
 # Contributing to AION OS
 
-First off, thank you for considering contributing to **AION OS**!  
-Your help is essential for making this project better.
+Hi there! 👋  
+I’m **Hemanth Kumar Bonula**, creator of **AION OS** — an AI-powered operating system project.  
+Thank you for taking the time to contribute! Your efforts will help make AION OS better for everyone. 🚀
+
+---
 
 ## 📌 How to Contribute
 
-### 1. Fork the Repository
-- Click the **Fork** button at the top right of this page.
-- This will create your own copy of the repository.
+### 1️⃣ Fork the Repository
+- Click the **Fork** button at the top right of this page to create your own copy.
 
-### 2. Clone Your Fork
+### 2️⃣ Clone Your Fork
 ```bash
-git clone https://github.com/<your-username>/AION-OS.git
+git clone https://github.com/hemanthbonula/AION-OS.git
